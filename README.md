@@ -143,7 +143,7 @@ Sunday                   42 commits         ████████████
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java and Spring Boot
 
 🔥 Editors: 
 No Activity Tracked This Week
@@ -171,6 +171,5 @@ Java                                6 repos             ████████
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/1abhisfoyr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mustfashxa60/" height="30" width="40" /></a>
 </p>
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have be
 
  Last Updated on 31/03/2023 01:36:45 UTC
