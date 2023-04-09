@@ -6,7 +6,7 @@
 <img alt="india flag gif" height="30" src="https://media3.giphy.com/media/9Gnbm29r7ftUA/200w.webp?cid=ecf05e473za3p49dhmp93wv3n7teyh3wcpip91uh83ll8x4w&rid=200w.webp&ct=g">
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-mustafa786&label=Profile%20views&color=0e75b6&style=flat" alt="md-mustafa786" /> </p>
+
 <h3> Software developer proficient in Java, Spring Boot, and SQL. Skilled in designing and implementing complex systems, debugging, and problem-solving. Passionate about developing clean and efficient code and constantly expanding my knowledge of new technologies.</h3>
 <p>
 
@@ -98,47 +98,24 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2026%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1134-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 182.8 kB Used in GitHub's Storage 
- > 
-> 🏆 97 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm a Night 🦉** 
+<h3 align="center">A passionate frontend developer from India</h3>
 
-```text
-🌞 Morning                32 commits         ██████████░░░░░░░░░░░░░   32.73 % 
-🌆 Daytime                12 commits         ████████████░░░░░░░░░░░   36.67 % 
-🌃 Evening                18 commits         ████████████████░░░░░░░   61.74 % 
-🌙 Night                  42 commits         ████████████████████░░░   90.86 % 
-```
-📅 **I'm Most Productive on Sunday** 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-mustafa786&label=Profile%20views&color=0e75b6&style=flat" alt="md-mustafa786" /> </p>
 
-```text
-Monday                   25 commits         ██████████████████░░░░░░   80.04 % 
-Tuesday                  15 commits         ████████████████░░░░░░░░   72.70 % 
-Wednesday                33 commits         ██████████████████░░░░░░   75.67 % 
-Thursday                 31 commits         █████████████████░░░░░░░   73.16 % 
-Friday                   35 commits         ████████████████░░░░░░░░   62.36 % 
-Saturday                 38 commits         ██████████████░░░░░░░░░░   55.47 % 
-Sunday                   42 commits         ██████████████████████░░   98.61 % 
-```
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-mustafa786" alt="md-mustafa786" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-mustafa786&show_icons=true&locale=en&layout=compact" alt="md-mustafa786" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-mustafa786&show_icons=true&locale=en" alt="md-mustafa786" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-mustafa786&" alt="md-mustafa786" /></p>
 
 
 📊 **This Week I Spent My Time On** 
@@ -156,15 +133,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Java Spring Boot** 
 
-```text
-Java Spring boot                   18 repos             ████████████████████████░░   90.53 % 
-Java                                6 repos             █████████████████░░░░░░░░░   65.21 % 
-```
-
-
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--END_SECTION:-->
 <h3 align="left">Connect with me:</h3>
@@ -176,4 +146,4 @@ Java                                6 repos             ████████
 </p>
 
 
- Last Updated on 31/03/2023 01:36:45 UTC
+ Last Updated on 09/04/2023 01:36:45 UTC
